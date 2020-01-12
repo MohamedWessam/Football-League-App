@@ -1,4 +1,4 @@
-# Football-League-App
+# Football League App
 
 Demo of Football League Application that implements: 
 - Retrofit
