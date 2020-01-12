@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Football League Application</string>
+
+    <string name="starred">Starred</string>
+    <string name="leagues">Leagues</string>
+    <string name="teams"><u>Teams</u></string>
+    <string name="seasons"><u>Seasons</u></string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="website">Website:</string>
+    <string name="email">Email:</string>
+    <string name="founded">Founded:</string>
+    <string name="club_colors">Club colors:</string>
+    <string name="venue">Venue:</string>
+    <string name="players">Players</string>
+    <string name="position">Position:</string>
+    <string name="nationality">Nationality:</string>
+    <string name="favourite">Favourite</string>
+    <string name="added_to_favourite">Team has been added to your favourite list</string>
+    <string name="removed_from_favourite">Team has been removed from your favourite list</string>
+</resources>

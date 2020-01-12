@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/leaguesFragment">
+
+    <fragment
+        android:id="@+id/leaguesFragment"
+        android:name="com.wessam.footballleagueapplication.ui.main.fragment.LeaguesFragment"
+        android:label="fragment_leagues"
+        tools:layout="@layout/fragment_leagues" />
+    <fragment
+        android:id="@+id/favouriteFragment"
+        android:name="com.wessam.footballleagueapplication.ui.main.fragment.FavouriteFragment"
+        android:label="fragment_favourite"
+        tools:layout="@layout/fragment_favourite" />
+</navigation>
